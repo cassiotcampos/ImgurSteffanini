@@ -1,2 +1,2 @@
 # ImgurSteffanini
-Aplicativo teste para vaga de Android Developers
+Aplicativo teste para vaga de Android Developer
